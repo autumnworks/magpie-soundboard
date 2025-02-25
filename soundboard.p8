@@ -13,7 +13,10 @@ function _init()
 	sfx0runtime = sfx0rechargetime
 	playsfx0vfx = false
 	flipflop = false
+	
 end
+
+--------
 
 -- input loop
 function _update()
@@ -53,6 +56,8 @@ function _update()
 	end
 	
 end
+
+--------
 
 -- graphics loop
 function _draw()
@@ -135,6 +140,8 @@ function _draw()
 	end
 	
 end
+
+--------
 -->8
 --[[ todo:
 
